@@ -5,3 +5,7 @@ Automation of Instagram features such as like-unlike, follow-unfollow, finding l
 ## Motivation Behind doing this Project
 
 Your friend has opened a new Food Blogging handle on Instagram and wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so he asks you to help him. So, we solved his problems ( Problem Statements - Part 1 and 2 ) through this bot and have named it INSTABOT. 
+
+NOTE - This Project was done as a part of Data Science and Machine Learning Course offered by Coding Ninjas, India.
+
+
